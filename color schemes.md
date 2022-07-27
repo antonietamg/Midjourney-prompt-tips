@@ -1,7 +1,9 @@
 # Interesting and beautiful color schemes for Midjourney
 
 <p> Copy and paste these color schemes and gradients before or after the description of your image.</p>
-<p>You can change the word "gradient" for scheme or viceversa.</p>
+<p>You can change the word "gradient" for "scheme" or viceversa.</p>
+
+### Pastel Colors
 
 * color scheme violet prim violet prelude pink flare lily
 
@@ -24,4 +26,8 @@
 * color scheme Fuel Yellow Link Water Concrete Bali Hai Hillary
 
 * color scheme red Brown Alto Pink Flare Cold Turkey Pale Pink
+
+* color scheme Scooter Iceberg Vista White Monsoon Shadow Green
+
+* color schemes Scandal Coral Candy Jagged Ice Sundown Shilo
 
