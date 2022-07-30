@@ -5,7 +5,9 @@
 
 ### Pastel Colors
 
-* color scheme violet prim violet prelude pink flare lily
+* ------------------------------ Example ---------------------------------
+* your description :: color scheme, violet prim color, violet prelud color, pink flare color, lily color
+* -------------------------------------------------------------------------
 
 * color gradient Tyrian purple, dark purple, green sulu, greeen amazon, green cruisoe 
 
