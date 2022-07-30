@@ -5,15 +5,15 @@
 
 ### Pastel Colors
 
-* ------------------------------ Example ---------------------------------
-* your description :: color scheme, violet prim color, violet prelud color, pink flare color, lily color
-* -------------------------------------------------------------------------
+<p>:::::::::::::::::::::::::::::::::::::::::: Example :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
+<p> your description :: color scheme, violet prim color, violet prelud color, pink flare color, lily color </p>
+<p>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
 
-* color gradient Tyrian purple, dark purple, green sulu, greeen amazon, green cruisoe 
+* color gradient Tyrian purple color, dark purple color, green sulu color, greeen amazon color, green cruisoe color 
 
-* color gradient green Fuego, green Mantis, free speech aquamarine, persian green 
+* color gradient green Fuego color, green Mantis color, free speech aquamarine color, persian green color
  
-* color gradient green eucalyptus, green vista blue, tidal, maverick 
+* color gradient green eucalyptus color, green vista blue color, tidal color, maverick color
  
 * color gradient oxley, green smoke, pale leaf, snow drift
 
