@@ -23,7 +23,7 @@
 
 * color gradient Puce, Kobi, Jazz, Turkish Rose, Careys Pink
 
-* color gradient Matisse, Regent St Blue, Light cyan, burnt sienna, licorice
+* color gradient Matisse color, Regent St Blue color, Light cyan color, burnt sienna color, licorice color
 
 * color scheme Fuel Yellow Link Water Concrete Bali Hai Hillary
 
